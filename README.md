@@ -13,7 +13,8 @@ Predicting which failed transactions will be recovered within 30 days and priori
 ## Finance Collections Forecasting (Prophet)
 DSO and collections forecasting using Prophet, with rolling windows and interactive dashboards.
 - Tech: Python, Prophet, Pandas, Excel
-- Repo: (add link)
+- Repo: https://github.com/negroniO/finance_dashboard
+- Live App :
 
 ---
 # Skills & Tools
