@@ -1,5 +1,5 @@
 Hi, I'm George — Data Analyst / FP&A / ML Practitioner
-<p align="center"> <img src="https://github.com/negroniO/payment-recovery-ml/blob/main/assets/banner.png" width="85%"/> </p>
+
 I combine Finance, SQL, and Machine Learning to build data-driven tools that improve operations, forecasting, and revenue recovery.
 Recently completed a Master’s in Data Analytics in Accounting & Finance, and currently working as an FP&A Analyst — applying analytics and automation to real business problems.
 
